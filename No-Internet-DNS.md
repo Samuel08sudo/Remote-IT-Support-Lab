@@ -24,5 +24,5 @@ Internet access restored successfully
 - AnyDesk
 - Command Prompt
 
-![Slow-System](Screenshots/3.png)
-![Slow-System](Screenshots/4.png)
+![DNS-Wrong](Screenshots/3.png)
+![DNS-Wrong](Screenshots/4.png)
