@@ -24,3 +24,5 @@ Application resumed normal functionality
 ## Tools Used
 - AnyDesk
 - Task Manager
+
+![Application-Freeze](Screenshots/5.png)
