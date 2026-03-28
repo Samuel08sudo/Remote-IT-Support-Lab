@@ -23,3 +23,6 @@ Internet access restored successfully
 ## Tools Used
 - AnyDesk
 - Command Prompt
+
+![Slow-System](Screenshots/3.png)
+![Slow-System](Screenshots/4.png)
