@@ -24,3 +24,6 @@ System performance improved significantly
 ## Tools Used
 - AnyDesk
 - Task Manager
+
+![Slow-System](Screenshots/1.png)
+![Slow-System](Screenshots/2.png)
